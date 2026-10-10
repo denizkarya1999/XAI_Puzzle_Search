@@ -1,0 +1,15 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated reports remain local
+/results/
+
+# Local editor and credential files
+.DS_Store
+.vscode/
+.idea/
+.env
+.env.*
