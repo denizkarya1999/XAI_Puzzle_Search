@@ -1,4 +1,0 @@
-# Keep the original course handout local; publish only the authored report.
-*
-!.gitignore
-!Programming_Assignment_I_Search_Algorithms.pdf

@@ -112,16 +112,9 @@ Each report contains an algorithm heading, `**********`, the solution boards and
 
 Search depth and solution depth are reported separately. Runtime excludes board printing and file writing. IDS counts repeated visits and expansions across depth limits; its discovered-state count is unique across iterations. Expanded-node counts describe expansions and are not a direct measurement of memory in bytes.
 
-## Comparison report
-
-[Programming Assignment I - Search Algorithms](Files/Programming_Assignment_I_Search_Algorithms.pdf)
-
-Prepared by Deniz K. Acikbas for CIS 579 - Introduction to AI, dated October 9th 2026. The two-page report compares all eight required search configurations using one fresh run per configuration. It includes the initial and goal boards, path cost, solution depth, maximum generated search depth, execution time, expanded nodes, and interpretation of the results.
-
 ## Project layout
 
 - `Code/`: Python source and local generated results.
-- `Files/`: the comparison report and locally retained course handout. Only the authored report is tracked in Git.
 - `README.md`: setup, usage, and references.
 
 ## Main files
@@ -139,7 +132,7 @@ Prepared by Deniz K. Acikbas for CIS 579 - Introduction to AI, dated October 9th
 
 - CIS 579 Programming Assignment 1: assignment requirements and example boards. The course handout is kept locally and is not included in this repository.
 - [UC Berkeley Pacman AI Projects](http://ai.berkeley.edu): source of the supplied starter code. Original licensing and attribution notices are retained in the derived starter files.
-- ChatGPT, OpenAI: assistance with assignment interpretation, code implementation, explanations, debugging, verification, and README preparation.
+- ChatGPT, OpenAI: assistance with this project and report, including algorithm explanations, menu options, and the comparison table.
 
 ## Topics
 
